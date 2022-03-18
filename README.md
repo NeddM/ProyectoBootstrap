@@ -5,7 +5,7 @@ https://beatmaking.w3spaces.com/index.html
 Proyecto de bootstrap, para la segunda evaluación del módulo LL.MM
 
 
-Validaciones:
+## Validaciones:
 
 - beatmakers.html
 ![Beatmakers validación](https://github.com/illoneddy/ProyectoBootstrap/blob/main/validaciones/beatmakers.PNG)
